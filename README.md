@@ -87,7 +87,9 @@ Welcome to my project! This is an immersive and dynamic faction selector inspire
   ```
 
 ## Reflection 
-
+```
+getsuga....TENSHOU!!!
+```
 Thank you for exploring my project! This project helped me reinforce concepts of flexible layout design, interactive CSS styling, and semantic HTML structuring. Feedback and suggestions are always welcome!
 
 And as always, keep God first! 🙏
