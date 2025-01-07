@@ -74,11 +74,11 @@ Welcome to my project! This is an immersive and dynamic faction selector inspire
 ## Future Enhancements
 
 - Add JavaScript Functionality
-- ```
+  ```
   Dynamically change the background image when buttons are clicked
   ```
 - Improve Responsiveness
-- ```
+  ```
   Use media queries to further optimize the design for mobile and tablet devices
   ```
 - Enhance Interactivity
