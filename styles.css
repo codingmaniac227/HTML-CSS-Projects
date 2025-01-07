@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-image: url("./images/Bleachgif.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    transition: background-image 0.5s ease;
+}
+
+#main-logo {
+    width: 100px;
+}
+
+#redtext {
+    color: red;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;  
+    margin: 30px;
+    opacity: 85%;
+    transition: background 0.3s ease, color 0.3s ease;  
+}
+
+.btn.soul-society {
+    color: red;
+    background-color: black;
+    font-family: Noto Sans Japanese;
+}
+
+.btn.wandenreich {
+    color: white;
+    background-color: aqua;
+    font-family: Germania One;
+}
